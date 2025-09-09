@@ -1,4 +1,4 @@
-#Ideias para o museu java
+
 Ideias para o museu do Git
 
 ° Inicio do museu na sala principal, cada sala tera uma explicação e alguns codigos iniciais sobre o git. ° Logo depois vc ira poder fazer perguntas, pré programadas por nós e tirar as dúvidas. ° Quiz de perguntas nas salas ou no final do museu. °
