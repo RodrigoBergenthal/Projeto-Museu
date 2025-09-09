@@ -1,1 +1,3 @@
 Adicionar lista de entrada e saida de forma com texto de estilo rpg de texto.
+
+adicionar descrisoes da sala.
