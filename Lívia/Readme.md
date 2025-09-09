@@ -1,0 +1,1 @@
+Criar uma interface de espera antes de acessar as informações no museu
